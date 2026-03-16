@@ -32,7 +32,7 @@ Curiosity + delivery > staying in a comfort zone.
 ## Contact
 
 - Discord (fastest): **vaporr**
-- Email: **kylian.gagnant@orange.fr**
+- Email: **kyliangagnant@proton.me**
 
 > Please mention you came from my GitHub so I can filter spam.
 
