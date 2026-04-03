@@ -1,4 +1,4 @@
-# Hi, I'm Vapor
+# Hi, I'm Luna aka Vapor.
 
 Full‑stack development student (3rd year, UIT) with a strong interest in systems, graphics and building tools, really often around music.  
 Passionate gamer (sometimes competitive), curious learner, and a big admirer of Japanese culture 🇯🇵.
@@ -31,7 +31,7 @@ Curiosity + delivery > staying in a comfort zone.
 
 ## Contact
 
-- Discord (fastest): **vaporr**
+- Discord (fastest): **_lu_naa**
 - Email: **kyliangagnant@proton.me**
 
 > Please mention you came from my GitHub so I can filter spam.
