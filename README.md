@@ -8,7 +8,7 @@ Passionate gamer (sometimes competitive), curious learner, and a big admirer of 
 ## Tech & Skills
 
 Everything you want to know can be found on my portfolio right here !
-[Aiming for the stars](https://vapoor.github.io/aiming-for-the-stars/)
+[Aiming for the stars](https://lun-a-a.github.io/aiming-for-the-stars/)
 
 ---
 
@@ -16,7 +16,7 @@ Everything you want to know can be found on my portfolio right here !
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Stardust (Console Music Player)](https://github.com/Vapoor/stardust-music-player) | Offline C++ console music player for local playlists. | C++ |
+| [Stardust (Console Music Player)](https://github.com/Lun-a-a/stardust-music-player) | Offline C++ console music player for local playlists. | C++ |
 
 > You’ll also find personal experiments, learning sandboxes, and prototypes that may turn into bigger ideas later.
 
@@ -39,7 +39,7 @@ Curiosity + delivery > staying in a comfort zone.
 ---
 
 ## Roadmap
-- [Cloud2Gether](https://github.com/Vapoor/cloud2gether) | A web app using React to listen to Soundcloud songs with multiple people at the same time.
+- [Cloud2Gether](https://github.com/Lun-a-a/cloud2gether) | A web app using React to listen to Soundcloud songs with multiple people at the same time.
 ---
 
 ## License / Reuse
