@@ -1,4 +1,5 @@
-# Hi, I'm Luna aka Vapor.
+# Hi, I'm Luna.
+*they/them, she/her preferred*
 
 Full‑stack development student (3rd year, UIT) with a strong interest in systems, graphics and building tools, really often around music.  
 Passionate gamer (sometimes competitive), curious learner, and a big admirer of Japanese culture 🇯🇵.
